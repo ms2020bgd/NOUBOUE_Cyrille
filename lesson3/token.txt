@@ -1,0 +1,4 @@
+credentials = {
+    "username": "cyrilhokage",
+    "token":"92043a27fc595b62b4253d126c2484a2b43bff87"
+}
